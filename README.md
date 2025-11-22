@@ -32,9 +32,11 @@ Using two independent feature pipelines — spaCy stylometry and MAT-style POS c
     pca_loadings.png
 
 /texts
-    (Lovecraft public-domain texts only)
+    lovecraft/  (public domain)
+    hemingway/  (placeholders only)
 ```
-
+**Note:** Due to copyright, Hemingway texts are not included.  
+Please add your own legally obtained copies with matching filenames to reproduce the analysis.
 ---
 
 ## 🔧 **Methods Overview**
@@ -263,3 +265,4 @@ source("scripts/03_make_figures.R")
 M.A. Linguistics (Language, Communication & Cognition)
 Computational Linguistics / NLP
 University of Freiburg
+
