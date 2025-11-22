@@ -1,0 +1,3 @@
+Hemingway text removed due to copyright.
+Please supply your own legally obtained text files 
+with the same filenames to reproduce the analysis.
